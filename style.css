@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #9be4fd;
+}
+div{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 30px;
+}
+.imagen img{
+  height: 400px;
+}
+.titulo h1{
+  font-size: 50px;
+  text-align: center;
+  color: #0042aa;
+  font-family: 'Lobster';
+}
+.enlace p{
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Arial Narrow';
+}
+.subtitulo p{
+  font-size: 35px;
+  text-align: center;
+  color: #176dde;
+  font-family: 'Lobster';
+}
+.descripcion p{
+  font-size: 25px;
+  color: #176dde;
+  font-family: 'Arial Narrow';
+}
+.descripcion img{
+  height: 300px;
+}
